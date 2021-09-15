@@ -1,0 +1,12 @@
+number: int = int(input("Enter a number!")
+
+if ((number % 2 == 0) and (number % 7 == 0 )):
+print ("Tar Heels")
+else: 
+    if number % 2 == 0:
+    print ("Tars")
+    else:
+        if number % 7 == 0 :
+        print("Heels")
+        else:
+            print("carolina")

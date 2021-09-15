@@ -1,0 +1,6 @@
+def list duplicate( word: str)
+word: str = int(input("Enter a word!"))
+i = 0
+
+while i <= len(word)
+    if word[i] = 
